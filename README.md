@@ -59,10 +59,6 @@ npm start
 
 ---
 
-## 📸 Screenshots
-
-
-
 ---
 
 ## 🎯 Future Improvements
